@@ -1,0 +1,9 @@
+1.git status
+2.git add . (for multiple files) or git add filename.txt (for single)
+3.git commit -m "completed file3" (-m for msg)
+4.git log
+5.git diff filename (for checking changes)
+6.git checkout filename (for undo last changes)
+7.git remote add origin (url of repo)
+8.git push -u origin master
+9.in case error invalid username then clone another repo to local using git clone url after adding username and pswd
