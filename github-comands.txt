@@ -3,7 +3,8 @@
 3.git commit -m "completed file3" (-m for msg)
 4.git log
 5.git diff filename (for checking changes)
-6.git checkout filename (for undo last changes)
+6.git checkout filename (for undo last changes) or changing branch by usg git checkout branch name
 7.git remote add origin (url of repo)
 8.git push -u origin master
 9.in case error invalid username then clone another repo to local using git clone url after adding username and pswd
+10.git rm --cached -r . for removing from staging area
